@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "chat-fincapp",
+  "private_key_id": "3417eb2f3d9439df4aa56bbf13c90046e11782e1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQClV+7rfnAV9Bqv\n1mCmpfGAYj6mRSR13e0a8N0RuOGoVzodr9ckwZFJiMVEmJi5EV3yodfHg6VANiIF\nemvZg4y4/VnfcvLkSoqDq+s9raCMpmfis2AcNV/pNdXybyXeIyB/A3uUk6KuddHB\n+9hkvDUrS50+qfR/GIHlmN++But0lgiF+X0ph93IYQlIeczoS91zMR6ElKxWBivR\ngwSym1QQAXyLwgsVUl+XWqt/QGT759zlQ1JXA0ZOosDJplZEVTVPXLhFP2Ev4SO/\ny8N3DCBah/jLSNeAGhTHXQ5To1yS3UsXjs5KHNhVtf2mx04ZWkNbNpMODKWW1aNw\nM+e0pGvBAgMBAAECggEAI9CsXC6DMP4zWatiPDbt3RVq5LFNeIqd9Zv/Bvu5RbG/\nUPbp73hOdFNAB9/WFSCB7TDJgNovTX1sWStveSpZrSiT8yb/HhxXbLYsuquFf3H8\nRsr8IqAdKnMS6PTSiw+o1lp2xnREZO34hcB72zY5fite4FgIMg+o84bt0EfHcPVF\nsTfpnErxahxpf+Wxnqp8Rdi9T00un3ldLaEIFkoA1MHa9bdUQik0lMY97gZVyn49\nEG/Q6vtmM5o3GKWc72yZCiHSlhM29UMH4Vhr8aUEv4srWL0PmGTf38k4wTuK5nxA\n9dQj6SxvWbY7L8I4f/0rfEmjMe2kqbdDKOEtAvplwQKBgQDTdNKN51JRbkHhptYo\nElvdf0MDvvSRhB/sGqPXMOi/SUrtQe5crYiCFaK3isctKQbjMU7nfwn/sKQORHDD\ncPIpjenNhS0og43jMdnCz5+KT9gdbMfjcQGHIcEBd0KT12rw8Gj92SGrwDITFVro\nKi35ad3/WThZf2t7we4+iEM4RQKBgQDILGOxE4d15lC3mnDDRPLCj8qO58WB0GKF\ns5YBA0hq0TIzZg/N+Qm5w+LATY2QGX8ZUjLcL66GVB+KlEWz6oORzToip7rZhWjf\nGJRZxetH1uWdsnWM4e6jorRZa/1PcKj3gnK/rsr62H+SdTGtYNMR3n/BKHGAHGSo\nOBy6MafzTQKBgEI75XftbSt0jc5Qo+QJXB0VL7iMp66s5BLghVFyUHUaUA3hCPie\nopOck0tKfPj4UN/5Ie4BLPCaM8kERw3w4umBOirV/D8kdd0kUEFlJ2P7foY4/KOR\nUhkxyXLcGE6WuzidFUXuLU3O9eBkYAU4sQ3ey1qgZ7Yg41nwdN/BbszBAoGBALa8\nbzXUEjF7U+yIvLBGXSdohQ34X8GmLorH6wR5rr50w1NQtNTfqBVB0dqj8bu+ytye\nwXdov/Y5DaJAwXEBgaK0q4G/hT/WHmqr0aIyoBsw/uT7aXx3NJeFjQalItZGjrmF\nCKQcOYjN44gcHIGehpElgZMgDJ1bTjiTIQaJFj1xAoGAVeqLt2LTXvkgtG20eYhW\nselypJnmwqSGsadikG2fsyusKek8NJjWu3vnMw+hHnX/416cAlYH7yjqIAH426NB\nXEWU9aqNG2dXUUJar9qnZ6qqc5pR1shn/8038iWjX90zx1ze9dWtWNIU223jimeE\nGZT3gbcVE9QPpEaja8S611s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-qw07j@chat-fincapp.iam.gserviceaccount.com",
+  "client_id": "115702282518457805597",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-qw07j%40chat-fincapp.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
