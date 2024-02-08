@@ -18,7 +18,7 @@ export class UsersService {
     async getAll(): Promise<any> {
         ///Consultar usuarios
         const usersFind = await this.firebase.firestore.collection('users').get();
-        return usersFind.docs.map((doc) => doc.data());
+        return usersFind.docs.map((doc) => ({ ...doc.data(), id: doc.id }));
     }
 
     async getUserById(id: string): Promise<any> {
